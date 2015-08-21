@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>System.Web.WebPages.Razor</name>
+  </assembly>
+  <members>
+    <member name="T:System.Web.WebPages.Razor.CompilingPathEventArgs">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.CompilingPathEventArgs.#ctor(System.String,System.Web.WebPages.Razor.WebPageRazorHost)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.CompilingPathEventArgs.Host">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.CompilingPathEventArgs.VirtualPath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.PreApplicationStartCode">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.PreApplicationStartCode.Start">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.RazorBuildProvider">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.#ctor">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.AddVirtualPathDependency(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.RazorBuildProvider.AssemblyBuilder">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.RazorBuildProvider.CodeCompilerType">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="E:System.Web.WebPages.Razor.RazorBuildProvider.CodeGenerationCompleted">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="E:System.Web.WebPages.Razor.RazorBuildProvider.CodeGenerationStarted">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="E:System.Web.WebPages.Razor.RazorBuildProvider.CompilingPath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.CreateHost">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.GenerateCode(System.Web.Compilation.AssemblyBuilder)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.GetGeneratedType(System.CodeDom.Compiler.CompilerResults)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.GetHostFromConfig">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.InternalOpenReader">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.RazorBuildProvider.OnBeforeCompilePath(System.Web.WebPages.Razor.CompilingPathEventArgs)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.RazorBuildProvider.VirtualPath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.RazorBuildProvider.VirtualPathDependencies">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.WebCodeRazorHost">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebCodeRazorHost.#ctor(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebCodeRazorHost.#ctor(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebCodeRazorHost.GetClassName(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebCodeRazorHost.PostProcessGeneratedCode(System.Web.Razor.Generator.CodeGeneratorContext)"></member>
+    <member name="T:System.Web.WebPages.Razor.WebPageRazorHost">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.#ctor(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.#ctor(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.AddGlobalImport(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.CodeLanguage">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.CreateMarkupParser">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.DefaultBaseClass">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.DefaultClassName">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.DefaultDebugCompilation">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.DefaultPageBaseClass">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.GetClassName(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.GetCodeLanguage">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.GetGlobalImports">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.InstrumentedSourceFilePath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.IsSpecialPage">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.PhysicalPath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.PostProcessGeneratedCode(System.Web.Razor.Generator.CodeGeneratorContext)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.RegisterSpecialFile(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebPageRazorHost.RegisterSpecialFile(System.String,System.Type)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.WebPageRazorHost.VirtualPath">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.WebRazorHostFactory">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.#ctor">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.ApplyConfigurationToHost(System.Web.WebPages.Razor.Configuration.RazorPagesSection,System.Web.WebPages.Razor.WebPageRazorHost)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateDefaultHost(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateDefaultHost(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateHost(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateHostFromConfig(System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateHostFromConfig(System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateHostFromConfig(System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.WebRazorHostFactory.CreateHostFromConfig(System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup,System.String,System.String)">
+      <summary>Ten typ/element obsługuje infrastrukturę .NET Framework i nie jest przeznaczony do bezpośredniego używania w kodzie.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.Configuration.HostSection">
+      <summary>Zapewnia obsługę systemu konfiguracji dla sekcji konfiguracyjnej host.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.Configuration.HostSection.#ctor">
+      <summary>Inicjuje nowe wystąpienie klasy <see cref="T:System.Web.WebPages.Razor.Configuration.HostSection" />.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.Configuration.HostSection.FactoryType">
+      <summary>Pobiera lub ustawia fabrykę hostów.</summary>
+      <returns>Fabryka hostów.</returns>
+    </member>
+    <member name="F:System.Web.WebPages.Razor.Configuration.HostSection.SectionName">
+      <summary>Reprezentuje nazwę sekcji konfiguracyjnej dla środowiska hosta Razor.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.Configuration.RazorPagesSection">
+      <summary>Zapewnia obsługę systemu konfiguracji dla sekcji konfiguracyjnej pages.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.Configuration.RazorPagesSection.#ctor">
+      <summary>Inicjuje nowe wystąpienie klasy <see cref="T:System.Web.WebPages.Razor.Configuration.RazorPagesSection" />.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.Configuration.RazorPagesSection.Namespaces">
+      <summary>Pobiera lub ustawia kolekcję przestrzeni nazw, które mają zostać dodane do stron produktu Web Pages w bieżącej aplikacji.</summary>
+      <returns>Kolekcja przestrzeni nazw.</returns>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.Configuration.RazorPagesSection.PageBaseType">
+      <summary>Pobiera lub ustawia nazwę klasy będącej typem podstawowym strony.</summary>
+      <returns>Nazwa klasy typu podstawowego strony.</returns>
+    </member>
+    <member name="F:System.Web.WebPages.Razor.Configuration.RazorPagesSection.SectionName">
+      <summary>Reprezentuje nazwę sekcji konfiguracyjnej dla stron Razor.</summary>
+    </member>
+    <member name="T:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup">
+      <summary>Zapewnia obsługę systemu konfiguracji dla sekcji konfiguracyjnej system.web.webPages.razor.</summary>
+    </member>
+    <member name="M:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup.#ctor">
+      <summary>Inicjuje nowe wystąpienie klasy <see cref="T:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup" />.</summary>
+    </member>
+    <member name="F:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup.GroupName">
+      <summary>Reprezentuje nazwę sekcji konfiguracyjnej dla sekcji sieci Web Razor. Zawiera statyczny ciąg tylko do odczytu „system.web.webPages.razor”.</summary>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup.Host">
+      <summary>Pobiera lub ustawia wartość host dla grupy sekcji system.web.webPages.razor.</summary>
+      <returns>Wartość elementu host.</returns>
+    </member>
+    <member name="P:System.Web.WebPages.Razor.Configuration.RazorWebSectionGroup.Pages">
+      <summary>Pobiera lub ustawia wartość elementu pages dla sekcji system.web.webPages.razor.</summary>
+      <returns>Wartość elementu pages.</returns>
+    </member>
+  </members>
+</doc>

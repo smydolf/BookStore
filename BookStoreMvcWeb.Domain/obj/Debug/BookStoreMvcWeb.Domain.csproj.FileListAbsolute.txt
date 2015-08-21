@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\BookStoreMvcWeb.Domain.dll.config
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\BookStoreMvcWeb.Domain.dll
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\BookStoreMvcWeb.Domain.pdb
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\Ninject.dll
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\bin\Debug\Ninject.xml
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\obj\Debug\BookStoreMvcWeb.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\obj\Debug\BookStoreMvcWeb.Domain.dll
+C:\Users\Adrian\Desktop\ASP.NET PROJECT\BookStoreMvcWeb\BookStoreMvcWeb.Domain\obj\Debug\BookStoreMvcWeb.Domain.pdb

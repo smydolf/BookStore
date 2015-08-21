@@ -1,0 +1,34 @@
+﻿@model BookStoreMvcWeb.Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+@using(Html.BeginForm())
+{
+    <h3>Wysyłka dla: </h3>
+    <form class="form-inline">
+        <div class="form-group">
+            <label>Imię</label>
+           @Html.TextBoxFor(x => x.FirstName, new { @class="form-control", placeholder = "joe"})
+            </div>
+        <div class="form-group">
+            <label>Nazwisko</label>
+            @Html.TextBoxFor(x => x.LastName, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label>Ulica</label>
+            @Html.TextBoxFor(x => x.StreetAdress, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label>Miasto</label>
+            @Html.TextBoxFor(x => x.City, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label>Kraj</label>
+            @Html.TextBoxFor(x => x.Country, new { @class = "form-control" })
+        </div>
+        <input type="submit" value="Utwórz" />
+    </form>
+}

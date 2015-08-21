@@ -1,0 +1,53 @@
+﻿@model BookStoreMvcWeb.Models.CartIndextViewModel
+
+@{
+    ViewBag.Title = "Twój koszyk";
+}
+<h2 class="h2">Twój koszyk</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-2">
+        </div>
+        <div class="col-xs-6">
+            <h3 class="h3">Nazwa produktu</h3>
+        </div>
+        <div class="col-xs-2">
+            <h3>Ilość</h3>
+        </div>
+        <div class="col-xs-2"><h3>Cena</h3></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-2">@{Html.RenderAction("Menu", "Navigation");}</div>
+        @foreach (var p in Model.Cart.Lines)
+        {
+            <div class="col-xs-6">
+                <h3 class="h3">@p.Product.Name</h3>
+            </div>
+            <div class="col-xs-1">
+                <h3>@p.Quantity</h3>
+            </div>
+            <div class="col-xs-2"><h3>@((p.Product.Price * p.Quantity).ToString("c"))</h3></div>
+            <div class="col-xs-1">
+                @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                {
+                    @Html.Hidden("ProductId", p.Product.ProductID)
+                    @Html.HiddenFor(x => x.ReturnUrl)
+                    <input class="btn btn-warning" type="submit" value="usun" />
+                }
+            </div>
+        }
+    </div>
+    <div class="row">
+        <div class="col-xs-2"></div>
+        <div class="col-xs-6">
+            <p>
+                <a href="@Model.ReturnUrl" class="btn btn-default" role="button">Kontynuuj zakupy</a>
+                @Html.ActionLink("Order", "Checkout")
+            </p>
+        </div>
+        <div class="col-xs-2">
+            <h3>Razem</h3>
+        </div>
+        <div class="col-xs-2"><h3>@Model.Cart.ComputeTotalValue().ToString("c")</h3></div>
+    </div>
+</div>

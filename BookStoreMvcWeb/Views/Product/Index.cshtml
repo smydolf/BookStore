@@ -1,0 +1,22 @@
+﻿@model BookStoreMvcWeb.Models.ProductListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+<div class="row" >
+    <div class="col-xs-2">
+        @{Html.RenderAction("Menu", "Navigation");}
+    </div>
+    <div class="col-xs-8">
+        @foreach (var p in Model.Products)
+        {
+        Html.RenderPartial("ProductSummary", p);
+        }
+        </div>
+    </div>
+    <div class="row">
+        <div class="pager">
+            @Html.PageLinks(Model.PageInfo, x => Url.Action("Index", new { page = x, category = Model.CurrentCategory }))
+        </div>
+    </div>
+</div>
